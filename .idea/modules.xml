@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/barcodes_gs1.iml" filepath="$PROJECT_DIR$/.idea/barcodes_gs1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lijstbewerker/.idea/lijstbewerker.iml" filepath="$PROJECT_DIR$/../lijstbewerker/.idea/lijstbewerker.iml" />
     </modules>
   </component>
 </project>
